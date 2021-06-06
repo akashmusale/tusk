@@ -6,3 +6,11 @@ i like to add more code
 
 
 Thanks to join me
+
+class Hi
+{
+  public static void main(String[] args)
+  {
+    Sysout.out.print("Hello java");
+  }
+}
